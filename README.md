@@ -1,4 +1,5 @@
 # musec
 MUSEC
 
-Musec's project
+Musec's project.
+
